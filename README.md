@@ -1,13 +1,7 @@
-# Hi, I'm Aral Roca
-
-<div align="right">
-  <a href="https://aralroca.com/donate">
-    <img src="https://img.shields.io/badge/$-support-ff69b4.svg?style=flat" alt="Donate" />
-  </a>
-</div>
+# Hi, I'm Abdulaziz Rustamov
 
 <p align="center">
-  <a href="https://aralroca.com">
+  <a href="https://newabdulaziz19.vercel.app">
     <img width="100" src="https://github.com/aralroca/aralroca.com/raw/master/public/images/logo.svg" alt="logo" />
   </a>
 </p>
@@ -30,7 +24,7 @@
   </a>
 </p>
 
-I'm a Full-Stack developer who likes to work with JavaScript/Typescript (Preact, Next.js, TensorFlow.js, Node, Deno) Rust, Python among others. 
+I'm a Frontend developer who likes to work with JavaScript/Typescript (React, Next.js, Node,) among others. 
 
 <div align="center">
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aralroca&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
@@ -40,7 +34,7 @@ I'm a Full-Stack developer who likes to work with JavaScript/Typescript (Preact,
   <br />
 </div>
 
-A few years ago I realized that I wanted to focus my efforts on being useful. For this reason, I'm trying to contribute more and more to open-source projects, helping people on Discus, StackOverflow, Spectrum, Github discussions... and creating useful content to be used by developers: libraries and articles. 
+A two years ago I realized that I wanted to focus my efforts on being useful. For this reason, I'm trying to contribute more and more to open-source projects, helping people on Discus, StackOverflow, Spectrum, Github discussions... and creating useful content to be used by developers: libraries and articles. 
 
 <br />
 
