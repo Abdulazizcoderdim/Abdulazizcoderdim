@@ -1,70 +1,34 @@
-# Hi, I'm Abdulaziz Rustamov
+## Hello, I'm Abdulaziz.
 
-<p align="center">
-  <a href="https://newabdulaziz19.vercel.app">
-    <img width="100" src="https://github.com/aralroca/aralroca.com/raw/master/public/images/logo.svg" alt="logo" />
-  </a>
-</p>
+### 🧑🏻‍💻 About Me :
+- React & React Native developer.
+- Work experience 2+ year
+- Ready to apply my skills in programming, as well as websites and mobile development.
+- In programming, I like logic, constant development and the opportunity to work on projects in different areas.
 
-<p align="center" style="margin: -20px 0 30px">
-   <a href="https://twitter.com/aralroca" target="_blank" style='margin-right:10px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="22px" width="22px" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/4467741/aral-roca" target="_blank" style='margin-right:10px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow" height="22px" width="22px" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/aral-roca-gomez-3b536bb1/" target="_blank" style='margin-right:10px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="22px" width="22px" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:contact@aralroca.com" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/protonmail.svg" alt="email" height="22px" width="22px" />
-  </a>
-</p>
 
-I'm a Frontend developer who likes to work with JavaScript/Typescript (React, Next.js, Node,) among others. 
-
-<div align="center">
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aralroca&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
-  <br />
-  <small>Languages used in my public repos - big fan of JavaScript 😛</small>
-  <br />
-  <br />
+#### My contacts: 
+<div id="badges">
+  <a href="https://t.me/abdulaziz704">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/abdulaziz-rustamov-a3b788299//">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </div>
 
-A two years ago I realized that I wanted to focus my efforts on being useful. For this reason, I'm trying to contribute more and more to open-source projects, helping people on Discus, StackOverflow, Spectrum, Github discussions... and creating useful content to be used by developers: libraries and articles. 
+#### My resume:
+  <a href="https://drive.google.com/file/d/1tCwiCFcmUU1LWUGtbr_jBqwzgC_vpW3F/view">
+    <img src="https://img.shields.io/badge/Link-blue?style=for-the-badge&logoColor=white" alt="CV-Link"/>
+  </a>
 
-<br />
-
-#### 📖 &nbsp;&nbsp;[aralroca.com](https://newabdulaziz19.vercel.app): Last 5 articles
- 
-* [SPA-Like Navigation Preserving Web Component State](https://aralroca.com/blog/spa-navigation) 
-* [HTML Streaming Over the Wire 🥳: A Deep Dive](https://aralroca.com/blog/html-streaming-over-the-wire) 
-* [Power of Partial Prerendering with Bun](https://aralroca.com/blog/partial-prerendering) 
-* [HTML Streaming and DOM Diffing Algorithm](https://aralroca.com/blog/html-node-streaming) 
-* [👋 Say Goodbye to Spread Operator: Use Default Composer](https://aralroca.com/blog/default-composer)
-
-<br />
-
-#### 🧡 &nbsp;&nbsp;My passions
-
-* Technology and software
-* Science 
-* Machine learning ([my articles about it](https://aralroca.com/blog?q=machine-learning))
-* Books ([goodreads](https://www.goodreads.com/user/show/32447157-aral-roca-gomez))
-* Parkour ([instagram](https://www.instagram.com/aralroca/), [youtube](http://youtube.com/aralroca))
-* Nutrition
-* Nature
-
-<br />
-<a href="https://aralroca.us8.list-manage.com/subscribe/post?u=29d99171aa3f671bde658475a&id=9f1a0b31e3">
-  <table align="right">
-      <tr>
-          <td>
-            👉 &nbsp;&nbsp;Subscribe to the newsletter
-          </td>
-      </tr>
-  </table>
-</a>
+---
+### 🛠  Tech stack:
+<div>
+ <img src="https://chrisliew.github.io/images/javascript-icon.png" width ="65px"> 
+  <img src="https://img.icons8.com/fluency/344/typescript.png" width ='65px'>
+ <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_1e0d62f445e6448af1e125f5702c8227/reactjs-development-services.png" width ="65px"> 
+ <img src="https://miro.medium.com/max/300/1*IGFI-jK1nPAjIOGa6sRT2g.png" width ="65px"> 
+ <img src="https://img.icons8.com/color/452/redux.png" width ="65px"> 
+ <img src="https://mobx.js.org/img/mobx.png" width ="65px"> 
+</div>
