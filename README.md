@@ -2,7 +2,7 @@
 
 ### 🧑🏻‍💻 About Me :
 - React & React Native developer.
-- Work experience 2+ year
+- Work experience 3+ year
 - Ready to apply my skills in programming, as well as websites and mobile development.
 - In programming, I like logic, constant development and the opportunity to work on projects in different areas.
 
