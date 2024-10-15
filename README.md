@@ -1,7 +1,7 @@
 ## Hello, I'm Abdulaziz.
 
 ### 🧑🏻‍💻 About Me :
-- Frontend developer.
+- Full-Stack developer.
 - Work experience 2 year
 - Ready to apply my skills in programming, as well as websites and mobile development.
 - In programming, I like logic, constant development and the opportunity to work on projects in different areas.
@@ -18,7 +18,7 @@
 </div>
 
 #### My resume:
-  <a href="https://drive.google.com/file/d/1V6sMMM8W4RYhIV3-WJao5CrTwGqqyfKq/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1rC_c3mEmPgdBmg8bkLuLeSMlhyR1DbL9/view?usp=sharing">
     <img src="https://img.shields.io/badge/Link-blue?style=for-the-badge&logoColor=white" alt="CV-Link"/>
   </a>
 
