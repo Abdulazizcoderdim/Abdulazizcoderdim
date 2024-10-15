@@ -18,7 +18,7 @@
 </div>
 
 #### My resume:
-  <a href="https://drive.google.com/file/d/1bZjasBbdNFSR1nxWsDQQ0dPwZ2xbU56U/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1V6sMMM8W4RYhIV3-WJao5CrTwGqqyfKq/view?usp=sharing">
     <img src="https://img.shields.io/badge/Link-blue?style=for-the-badge&logoColor=white" alt="CV-Link"/>
   </a>
 
